@@ -3,7 +3,7 @@
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
 <img align="right"
-  src="https://media.licdn.com/dms/image/v2/D4D12AQEQ0J20hbJJ8g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1708014022083?e=2147483647&v=beta&t=leKNa-A48NB0wrZb2E9dEk-3mrZFe875jedRJQcuK5U"
+  src="https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif"
   alt="gif"
   width="400"
 />
