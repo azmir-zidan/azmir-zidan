@@ -5,7 +5,7 @@
 <img align="right"
   src="https://media.licdn.com/dms/image/v2/D4D12AQEQ0J20hbJJ8g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1708014022083?e=2147483647&v=beta&t=leKNa-A48NB0wrZb2E9dEk-3mrZFe875jedRJQcuK5U"
   alt="gif"
-  width="500"
+  width="400"
 />
 
 Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
