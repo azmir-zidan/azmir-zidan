@@ -1,3 +1,24 @@
+# 💫 Hi 👋, I'm Azmir Al Zidan
+**A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
+
+Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+### 📌 What I'm currently doing
+- 🔭 Working on ML projects to build my portfolio
+- 🌱 Learning Deep Learning & Neural Networks
+- 💡 Exploring real-world AI applications
+- 🧠 Studying Mathematics for ML (Linear Algebra, Statistics, Calculus)
+- 📊 Practicing on Kaggle competitions & datasets
+- 🔬 Experimenting with NLP & Computer Vision projects
+- 📖 Reading research papers to stay updated with AI trends
+- 🛠️ Building end-to-end ML pipelines from data to deployment
+- 🤝 Open to collaborating on interesting AI/ML projects
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zidan70) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azizmir.al.50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azmir-al-zidan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azmir.alzidan@gmail.com) 
