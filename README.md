@@ -3,9 +3,9 @@
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
 <img align="right"
-  src="https://github.com/azmir-zidan/azmir-zidan/blob/main/neural%20GIF.gif?raw=true"
+  src="https://media.tenor.com/LjS7P6R1jJgAAAAM/artificial-intelligence-neural-network.gif"
   alt="gif"
-  width="400"
+  width="340"
 />
 
 Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
