@@ -3,7 +3,7 @@
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
 <img align="right"
-  src="https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif"
+  src="https://github.com/azmir-zidan/azmir-zidan/blob/main/neural%20GIF.gif?raw=true"
   alt="gif"
   width="400"
 />
