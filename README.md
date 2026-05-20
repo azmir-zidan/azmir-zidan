@@ -1,4 +1,4 @@
-![logo](https://github.com/azmir-zidan/azmir-zidan/blob/main/ChatGPT%20Image%20May%2020%2C%202026%2C%2008_45_48%20PM.png)
+![logo](https://github.com/azmir-zidan/azmir-zidan/blob/main/cover%20photo.png)
 # 💫 Hi 👋, I'm Azmir Al Zidan
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
