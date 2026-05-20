@@ -3,9 +3,9 @@
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
 <img align="right"
-  src="https://media.licdn.com/dms/image/v2/D4D22AQGmZ-pXE5xTvA/feedshare-shrink_1280/B4DZgy0NhqH4Ak-/0/1753199205706?e=2147483647&v=beta&t=_sR_IUYo2zjUfFaGYfDunGGbChrt7AtVTda2E4osuAg"
+  src="https://media.licdn.com/dms/image/v2/D4D12AQEQ0J20hbJJ8g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1708014022083?e=2147483647&v=beta&t=leKNa-A48NB0wrZb2E9dEk-3mrZFe875jedRJQcuK5U"
   alt="gif"
-  width="400"
+  width="500"
 />
 
 Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else. 😊😊
