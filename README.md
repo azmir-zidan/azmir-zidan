@@ -7,7 +7,7 @@
   width="300"
 />
 
-Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else.😊
+Email Me 👉 ✉️ **azmir.alzidan@gmail.com** For Collaboration/Project or Anything Else.
 
 ### 📌 What I'm currently doing
 - 🔭 Working on ML projects to build my portfolio
