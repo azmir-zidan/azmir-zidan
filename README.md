@@ -1,4 +1,3 @@
-![logo](https://github.com/azmir-zidan/azmir-zidan/blob/main/cover%20img.png)
 # 💫 Hi 👋, I'm Azmir Al Zidan
 **A passionate ML Enthusiast || Aspiring ML Engineer || Python Lover || AI Explorer**
 
